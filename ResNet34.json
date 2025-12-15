@@ -1,0 +1,27 @@
+[
+  {
+    "output_image": null,
+    "top_class": "burger",
+    "classification_predictions": {
+      "inference_id": "140cbac3-580d-4b93-87da-c26fe94b02d4",
+      "time": 0.006482719996711239,
+      "image": {
+        "width": 1480,
+        "height": 1093
+      },
+      "predictions": [
+        {
+          "class": "burger",
+          "class_id": 0,
+          "confidence": 0.9992
+        }
+      ],
+      "top": "burger",
+      "confidence": 0.9992,
+      "prediction_type": "classification",
+      "parent_id": "image",
+      "root_parent_id": "image"
+    },
+    "detection_predictions": null
+  }
+]
