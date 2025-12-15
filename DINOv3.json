@@ -1,0 +1,24 @@
+[
+  {
+    "predictions": {
+      "inference_id": "09de1464-1f64-4eae-a443-2b29c62b1401",
+      "time": 0.007779259991366416,
+      "image": {
+        "width": 1024,
+        "height": 1024
+      },
+      "predictions": [
+        {
+          "class": "hotdog",
+          "class_id": 1,
+          "confidence": 0.9317
+        }
+      ],
+      "top": "hotdog",
+      "confidence": 0.9317,
+      "prediction_type": "classification",
+      "parent_id": "image",
+      "root_parent_id": "image"
+    }
+  }
+]
